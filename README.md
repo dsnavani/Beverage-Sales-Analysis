@@ -5,6 +5,9 @@ This project analyzes monthly beverage sales to identify:<br/>
 + The best region for opening a new shop
 + Top-selling beverages by revenue and popularity
 
+## Tableau Dashborad
+[![Beverages Sales Dashboard](https://public.tableau.com/static/images/Da/DashBoard_17521485045200/BeveragesSalesDashboard/1_rss.png)](https://public.tableau.com/views/DashBoard_17521485045200/BeveragesSalesDashboard)
+
 ## Dataset Description
 The dataset includes: Order ID, Customer ID, Customer Type,
 Product, Category, Unit Price, Quantity, Discount, Total Price
