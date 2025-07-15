@@ -6,7 +6,7 @@ This project analyzes monthly beverage sales to identify:<br/>
 + Top-selling beverages by revenue and popularity
 
 ## Tableau Dashborad
-[![Beverages Sales Dashboard](https://public.tableau.com/static/images/Da/DashBoard_17521485045200/BeveragesSalesDashboard/1_rss.png)](https://public.tableau.com/views/DashBoard_17521485045200/BeveragesSalesDashboard)
+[![Beverages Sales Dashboard](https://public.tableau.com/static/images/Be/BeverageSalesAnalysisDashBoard/Dashboard1/1.png)](https://public.tableau.com/views/BeverageSalesAnalysisDashBoard/Dashboard1)
 
 ## Dataset Description
 The dataset includes: Order ID, Customer ID, Customer Type,
